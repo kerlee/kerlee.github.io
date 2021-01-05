@@ -1,11 +1,11 @@
 # Site settings
-title:          Kangti Lee
+title:          Kangdi Li
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
 url:            likangdi.com
 
 # Author
 author:
-  name:         Inela Avdic Hukic
+  name:         Kangdi Li
   email:        inelaah@gmail.com
   url:          https://inelaah.com
 
@@ -34,8 +34,8 @@ related_posts_section:
 
 # Links to social media
 social:
-  facebook: https://github.com/inelaah
-  instagram: https://twitter.com
-  weibo: sadasasdasd.com
   email: inelaah@gmail.com
+  facebook: https://github.com/inelaah
+  twitter: https://twitter.com
+  instagram: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
   
